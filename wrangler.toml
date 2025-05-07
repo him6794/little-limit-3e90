@@ -1,4 +1,4 @@
-name = "multiplayer-globe-template"
+name = "little-limit-3e90"  # 注意改成你的 worker 名稱
 main = "src/server/index.ts"
 compatibility_date = "2025-04-01"
 upload_source_maps = true
